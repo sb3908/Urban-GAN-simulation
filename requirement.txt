@@ -1,0 +1,7 @@
+
+torch==2.2.1      # Replace with your installed PyTorch version (ensure compatibility with CUDA)
+torchvision==0.19.1 # Compatible torchvision version
+numpy==1.22.4       # General numerical operations
+matplotlib==3.6.2   # For plotting and visualization
+Pillow==9.3.0       # Image processing
+argparse            # Command-line argument parsing (built-in, no version needed)
